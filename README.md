@@ -2,9 +2,9 @@
 
 Very simple demonstration of flutter pagination list with bloc design.
 
-## Getting Started
+<img src="/../main/screen_shot_1.jpg?raw=true" height=800 width=400></img>
 
-This project is a starting point for a Flutter application.
+## Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
