@@ -1,6 +1,6 @@
 # Beers
 
-A new Flutter project.
+Very simple demonstration of flutter pagination list with bloc design.
 
 ## Getting Started
 
